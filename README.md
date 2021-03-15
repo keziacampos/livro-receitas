@@ -5,4 +5,5 @@
 Olá! Bem-vindo ao livro de receitas :happy:
 
 - Strogonoff de frango
+- Pavê
 
